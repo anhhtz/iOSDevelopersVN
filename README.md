@@ -1,7 +1,10 @@
 # iOS Developers VN
 
-# Index
+<p align="center">
+  <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" />
+</p>
 
+# Index
 
 ### Swift tutorials
 
