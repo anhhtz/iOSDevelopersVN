@@ -1,7 +1,4 @@
-# iOSDevelopersVN
-
-
-### iOS Architecture
+# iOS Architecture
 
 - [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [iOS Architecture: MVVM](https://medium.com/@dzungnguyen.hcm/ios-architecture-mvvm-7166d025dbbe)
